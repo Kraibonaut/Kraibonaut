@@ -1,5 +1,5 @@
 👋 Hi there! I'm Kraibonaut (caraïbonaut),
-Web3 developer kinda, junior programmer with a background in Networking and sécurity, Gnu/Linux and FOSS Enthusiastic and I like to learn new things.
+Web3 developer, kinda junior programmer with a background in Networking and sécurity, Gnu/Linux and FOSS Enthusiastic and I like to learn new things.
 I mostly mess around to learn new stuff. I speak French, English, Spanish and learning Portugues.
 
 **📫 You can reach me on:**
